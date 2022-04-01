@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WeissLuxford
-- 👀 I’m interested in Fontend developing 
-- 🌱 I’m currently learning WEB-programming 
+- 👀 I’m interested in Fontend
+- 🌱 I’m currently learning JS>HTML>CSS
 - 💞️ I’m looking to collaborate on "idk"
 - 📫 How to reach me https://t.me/whisper_ing
 
