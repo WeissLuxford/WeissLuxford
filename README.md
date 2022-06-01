@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @WeissLuxford
-- 🌱 I’m currently learning JS?
+- 
 - 📫 How to reach me https://t.me/whisper_ing
 
 <!---
